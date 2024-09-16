@@ -16,7 +16,7 @@
   ansible.builtin.user:
     name: expense
 
-- name: run app pre-requistes
+- name: run app pre-requisites
   tags:
   - deployment
   ansible.builtin.import_role:
