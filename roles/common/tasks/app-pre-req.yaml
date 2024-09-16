@@ -2,7 +2,7 @@
   ansible.builtin.file:
     path: "{{app_location}}"
     state: absent # for delete we use absient
-  ignore_error: yes
+  #ignore_error: yes
 
 - name: create app directory
   ansible.builtin.files:
