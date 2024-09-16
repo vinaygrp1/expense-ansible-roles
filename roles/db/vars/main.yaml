@@ -1,2 +1,2 @@
-mysql_root_password: ExpenseApp@1
-#login_host: db.vinaydevops.online
+#mysql_root_password: ExpenseApp@1
+login_host: db.vinaydevops.online
